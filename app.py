@@ -14,7 +14,7 @@ import os
 import time
 
 # Set page configuration
-st.set_page_config(page_title="Infinity AI Finance Assistant", layout="wide")
+st.set_page_config(page_title="AI Finance Assistant", layout="wide")
 
 # Initialize sentiment analysis model
 @st.cache_resource
@@ -49,6 +49,7 @@ def simple_encrypt(data, password):
     # Base64 encode for storage/transmission
     return base64.b64encode(encrypted_bytes).decode('utf-8')
 
+
 def simple_decrypt(encrypted_data, password):
     """Simple decryption using password hash and XOR"""
     try:
@@ -69,7 +70,7 @@ def simple_decrypt(encrypted_data, password):
         json_data = decrypted_bytes.decode('utf-8')
         decrypted_data = json.loads(json_data)
         
-        # Convert ISO format dates back to datetime if needed
+        # Convert ISO format dates back to datetime
         for item in decrypted_data:
             if 'Date' in item and isinstance(item['Date'], str):
                 try:
@@ -79,8 +80,9 @@ def simple_decrypt(encrypted_data, password):
                     
         return decrypted_data
     except Exception as e:
-        st.error(f"Decryption failed: {e}")
+        st.error(f"Decryption failed: {str(e)}")
         return None
+
 
 # Mock Bank API
 class MockBankAPI:
