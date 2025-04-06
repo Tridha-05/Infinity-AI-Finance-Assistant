@@ -1,0 +1,101 @@
+UserID,Date,Description,Amount,Category
+user1,2025-03-15,Restaurant,-1313.23,Food
+user1,2025-03-17,Phone Bill,-986.79,Utilities
+user1,2025-03-24,Credit Card Payment,-2489.28,Debt
+user1,2025-03-26,Coffee Shop,-963.53,Food
+user1,2025-03-22,Netflix Subscription,-2479.33,Entertainment
+user1,2025-01-21,Uber Ride,-1558.73,Transportation
+user1,2025-03-17,Gas Station,-278.51,Transportation
+user1,2025-04-03,Interest Income,2113.29,Income
+user1,2025-03-15,Gas Station,-1255.07,Transportation
+user1,2025-01-18,Online Course,-1532.65,Education
+user1,2025-03-24,Pharmacy,-2679.57,Healthcare
+user1,2025-03-19,Interest Income,1707.68,Income
+user1,2025-01-21,Credit Card Payment,-2598.24,Debt
+user1,2025-03-27,Target Shopping,-1627.33,Shopping
+user1,2025-03-07,Donation,-2085.59,Charity
+user1,2025-01-17,Amazon Purchase,-851.44,Shopping
+user1,2025-01-16,Online Course,-653.85,Education
+user1,2025-01-10,Movie Tickets,-2833.75,Entertainment
+user1,2025-03-15,Gas Station,-1247.77,Transportation
+user1,2025-02-27,Coffee Shop,-907.21,Food
+user1,2025-03-30,Gym Membership,-2397.55,Healthcare
+user1,2025-04-04,Car Insurance,-1923.06,Transportation
+user1,2025-02-19,Movie Tickets,-877.28,Entertainment
+user1,2025-03-13,Credit Card Payment,-2094.26,Debt
+user1,2025-01-10,Salary Deposit,1619.81,Income
+user1,2025-02-07,Car Insurance,-2207.0,Transportation
+user1,2025-04-02,Grocery Store,-970.73,Food
+user1,2025-02-23,Amazon Purchase,-2615.42,Shopping
+user1,2025-03-06,Netflix Subscription,-1711.3,Entertainment
+user1,2025-03-19,Car Insurance,-129.11,Transportation
+user1,2025-03-15,New Shoes,-460.96,Shopping
+user1,2025-01-10,Donation,-2410.04,Charity
+user1,2025-01-12,Coffee Shop,-1071.38,Food
+user1,2025-02-23,Grocery Store,-1414.9,Food
+user1,2025-02-10,Netflix Subscription,-2130.79,Entertainment
+user1,2025-02-03,Pharmacy,-1388.09,Healthcare
+user1,2025-01-19,Restaurant Lunch,-776.72,Food
+user1,2025-04-01,Doctor Visit,-648.78,Healthcare
+user1,2025-02-23,Restaurant Lunch,-442.69,Food
+user1,2025-02-22,Credit Card Payment,-1102.87,Debt
+user1,2025-01-26,Target Shopping,-2742.07,Shopping
+user1,2025-02-03,Grocery Store,-351.37,Food
+user1,2025-01-18,Rent Payment,-1793.93,Housing
+user1,2025-03-16,Phone Bill,-657.3,Utilities
+user1,2025-02-22,Credit Card Payment,-2541.9,Debt
+user1,2025-03-29,Coffee Shop,-2338.96,Food
+user1,2025-03-21,Restaurant Lunch,-148.93,Food
+user1,2025-01-06,Gas Station,-854.69,Transportation
+user1,2025-03-20,Restaurant Lunch,-1273.47,Food
+user1,2025-03-28,Restaurant,-22.45,Food
+user1,2025-01-08,Credit Card Payment,-213.01,Debt
+user1,2025-02-18,Interest Income,621.94,Income
+user1,2025-02-17,Doctor Visit,-1549.65,Healthcare
+user1,2025-04-03,Online Course,-1329.27,Education
+user1,2025-03-18,Donation,-2159.41,Charity
+user1,2025-03-29,Amazon Purchase,-341.31,Shopping
+user1,2025-01-27,Movie Tickets,-361.96,Entertainment
+user1,2025-03-08,Uber Ride,-322.07,Transportation
+user1,2025-02-05,Online Course,-766.43,Education
+user1,2025-01-20,Donation,-440.52,Charity
+user1,2025-03-16,Online Course,-1615.17,Education
+user1,2025-02-06,Spotify,-1639.15,Entertainment
+user1,2025-03-28,Gas Station,-84.6,Transportation
+user1,2025-03-18,Side Hustle,1687.6,Income
+user1,2025-03-10,Restaurant,-2694.61,Food
+user1,2025-03-07,Grocery Store,-1553.46,Food
+user1,2025-01-20,Movie Tickets,-2375.26,Entertainment
+user1,2025-01-20,Interest Income,160.08,Income
+user1,2025-03-28,Grocery Store,-1656.35,Food
+user1,2025-02-27,Credit Card Payment,-1649.35,Debt
+user1,2025-01-19,Doctor Visit,-2687.27,Healthcare
+user1,2025-02-05,Car Insurance,-327.15,Transportation
+user1,2025-02-13,Spotify,-2610.11,Entertainment
+user1,2025-02-13,Netflix Subscription,-2984.26,Entertainment
+user1,2025-03-05,Restaurant,-373.59,Food
+user1,2025-03-15,Online Course,-1673.89,Education
+user1,2025-02-10,Pharmacy,-975.39,Healthcare
+user1,2025-01-10,Electricity Bill,-248.54,Utilities
+user1,2025-02-16,Netflix Subscription,-668.67,Entertainment
+user1,2025-01-23,Gas Station,-811.85,Transportation
+user1,2025-03-08,Netflix Subscription,-2844.51,Entertainment
+user1,2025-02-28,Gym Membership,-1870.95,Healthcare
+user1,2025-02-23,Salary Deposit,949.03,Income
+user1,2025-03-04,Coffee Shop,-963.97,Food
+user1,2025-02-20,Restaurant Lunch,-757.57,Food
+user1,2025-02-23,Pharmacy,-2984.39,Healthcare
+user1,2025-03-02,Uber Ride,-1353.71,Transportation
+user1,2025-02-07,Gym Membership,-1454.67,Healthcare
+user1,2025-01-13,Gas Station,-56.67,Transportation
+user1,2025-04-05,Gym Membership,-2888.04,Healthcare
+user1,2025-01-30,Pharmacy,-1773.98,Healthcare
+user1,2025-01-14,Amazon Purchase,-2837.87,Shopping
+user1,2025-02-14,Target Shopping,-1338.78,Shopping
+user1,2025-02-24,Rent Payment,-2687.8,Housing
+user1,2025-02-02,Target Shopping,-2539.25,Shopping
+user1,2025-02-16,Gym Membership,-1310.3,Healthcare
+user1,2025-03-03,Car Insurance,-1395.71,Transportation
+user1,2025-03-29,Car Insurance,-1624.46,Transportation
+user1,2025-01-11,Side Hustle,1319.14,Income
+user1,2025-03-04,Gym Membership,-1722.79,Healthcare
