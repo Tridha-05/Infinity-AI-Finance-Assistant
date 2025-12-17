@@ -1,19 +1,19 @@
-# 💰 AI Finance Assistant
+# AI Finance Assistant
 
 A Streamlit-based AI-powered financial assistant that allows users to upload their transaction data, get financial insights, visualize spending trends, and receive encrypted summaries with sentiment analysis. Perfect for users who want a private, smart, and interactive way to manage their personal finances.
 
-## 🚀 Features
+## Features
 
-- 📊 **Transaction Analysis**: Upload CSV files containing financial transactions and get meaningful summaries.
-- 📈 **Data Visualization**: Dynamic bar charts of expenses over time for easy trend identification.
-- 💬 **AI Insights**: Summarized explanations of spending behavior using OpenAI's GPT model.
-- 🧠 **Sentiment Analysis**: Understand the emotional tone of your financial activity.
-- 🔐 **Encryption/Decryption**: Secure your financial summaries with symmetric key encryption.
-- 🔁 **Mock Bank Transactions**: Perform simulated debit/credit transactions and update your balance in real-time.
+- **Transaction Analysis**: Upload CSV files containing financial transactions and get meaningful summaries.
+- **Data Visualization**: Dynamic bar charts of expenses over time for easy trend identification.
+- **AI Insights**: Summarized explanations of spending behavior using OpenAI's GPT model.
+- **Sentiment Analysis**: Understand the emotional tone of your financial activity.
+- **Encryption/Decryption**: Secure your financial summaries with symmetric key encryption.
+- **Mock Bank Transactions**: Perform simulated debit/credit transactions and update your balance in real-time.
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repo**
    ```bash
